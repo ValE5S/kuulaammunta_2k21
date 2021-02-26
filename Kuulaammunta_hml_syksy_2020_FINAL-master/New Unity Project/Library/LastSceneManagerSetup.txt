@@ -1,0 +1,5 @@
+sceneSetups:
+- path: C:/Users/t430/Downloads/Kuulaammunta_hml_syksy_2020_FINAL-master/Kuulaammunta_hml_syksy_2020_FINAL-master/Assets/Scenes/SampleScene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
